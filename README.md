@@ -17,4 +17,10 @@ The human brain can easily process visuals to understand complex algorithms. Sor
 - Generation of new data
 - Information on time and space complexity
 
-Experience Sortify and explore the fascinating world of sorting algorithms: [Website Link]
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript.
+
+Experience Sortify and explore the fascinating world of sorting algorithms: https://tkayat.github.io/Sortify/
